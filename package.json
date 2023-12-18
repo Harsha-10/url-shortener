@@ -1,5 +1,5 @@
 {
-  "homepage": "http://Harsha-10.github.io/url-shortener",
+  "homepage": ".",
   "name": "url-shortener",
   "version": "0.1.0",
   "private": true,
@@ -29,9 +29,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "deploy": "npm run build"
-  },
+    "eject": "react-scripts eject"
+  },  
   "eslintConfig": {
     "extends": [
       "react-app",
